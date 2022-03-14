@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 public class Aplicacao {
 
+    System.out.println("Teste");
+
     static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
